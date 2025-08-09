@@ -13,6 +13,7 @@ A blurred, mirrored reflection of the sparks adds a glowing aesthetic.
 
 ## 📂 Project Structure
 Fizzy Sparks/
+
 │── index.html     # Main HTML file
 
 │── style.css      # Stylesheet for layout & background
@@ -42,7 +43,8 @@ Fizzy Sparks/
 
 ## 📦 Installation & Usage
 1. **Clone or download** this repository.
-   git clone https://github.com/your-username/fizzy-sparks.git
+
+      git clone https://github.com/your-username/fizzy-sparks.git
 
 2. Open index.html in your browser.
 
