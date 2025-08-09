@@ -70,7 +70,8 @@ Fizzy Sparks/
 
 ---
 ## 📷 Preview
-(You can include a screenshot or GIF here)
+![Fizzy Sparks](https://github.com/user-attachments/assets/5a64c690-e234-4e14-8237-2b7f8e684662)
+
 
 ---
 ## 💡 Customization
