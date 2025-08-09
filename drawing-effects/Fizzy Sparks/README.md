@@ -14,8 +14,11 @@ A blurred, mirrored reflection of the sparks adds a glowing aesthetic.
 ## 📂 Project Structure
 Fizzy Sparks/
 │── index.html     # Main HTML file
+
 │── style.css      # Stylesheet for layout & background
+
 │── script.js      # JavaScript for particle animation logic
+
 ---
 
 ## 🎨 Features
@@ -47,21 +50,21 @@ Fizzy Sparks/
 ---
 
 ## ⚙️ How It Works
-Two canvases (c and c2) are drawn on top of each other.
+1. Two canvases (c and c2) are drawn on top of each other.
 
-particleFactory() generates particle objects with:
+2. particleFactory() generates particle objects with:
 
-Random velocity
+         Random velocity
+         
+         Random color (HSL)
+         
+         Radius shrink rate
 
-Random color (HSL)
+3. Particles fall under gravity, bounce on impact, and fade away.
 
-Radius shrink rate
+4. The second canvas (c2) is scaled vertically (scaleY: -1) and blurred to create a reflection.
 
-Particles fall under gravity, bounce on impact, and fade away.
-
-The second canvas (c2) is scaled vertically (scaleY: -1) and blurred to create a reflection.
-
-The animation loop updates at ~60 FPS using setInterval() and canvas redraws.
+5. The animation loop updates at ~60 FPS using setInterval() and canvas redraws.
 
 ---
 ## 📷 Preview
