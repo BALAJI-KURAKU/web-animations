@@ -98,7 +98,7 @@ You can easily tweak:
 
 <img width="363" height="366" alt="image" src="https://github.com/user-attachments/assets/66809418-7fa5-4bed-bb27-4ee0a5f91e95" />
 
-
+---
 **Open Menu (Pentagon Layout)**  
 
 <img width="675" height="747" alt="image" src="https://github.com/user-attachments/assets/5998cbcc-50b1-440d-b59d-b951c2c61889" />
