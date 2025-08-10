@@ -16,7 +16,6 @@ When the central menu button (`≡`) is clicked:
 
 ## 📂 Project Structure
 
-.
 ├── index.html # Main HTML structure
 
 ├── style.css # All styling and Pentagon layout animations
