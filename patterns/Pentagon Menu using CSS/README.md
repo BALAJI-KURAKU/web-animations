@@ -5,6 +5,9 @@ When clicked, the central button expands into a Pentagon layout with navigation 
 
 ---
 
+![Pentagon Menu Demo](pentagon gif.gif)
+
+
 ## 🚀 Demo
 
 When the central menu button (`≡`) is clicked:
