@@ -5,15 +5,14 @@ When clicked, the central button expands into a Pentagon layout with navigation 
 
 ---
 
-![Pentagon Menu using CSS](pentagon.gif)
-
-
 ## 🚀 Demo
 
 When the central menu button (`≡`) is clicked:
 - It changes to a close button (`×`)
 - Five navigation icons animate into a Pentagon layout around the button
 - Clicking again collapses the menu
+
+![Pentagon Menu using CSS](pentagon.gif)
 
 ---
 
