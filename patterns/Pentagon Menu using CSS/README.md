@@ -5,7 +5,7 @@ When clicked, the central button expands into a Pentagon layout with navigation 
 
 ---
 
-![Pentagon Menu using CSS](pentagon gif.gif)
+![Pentagon Menu using CSS](pentagon.gif)
 
 
 ## 🚀 Demo
