@@ -46,6 +46,7 @@ A living, glowing network of lines:
 ---
 
 ## 📷 Preview
+![Hexagon](https://github.com/user-attachments/assets/d01738af-4d6c-4195-a939-8d74035557b9)
 
 
 ---
