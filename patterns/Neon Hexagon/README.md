@@ -22,14 +22,15 @@ A living, glowing network of lines:
    cd neon-hexagon
 
 2. Open index.html in your browser
-- That’s it — no npm, no build step, no dependencies.
-- Pure HTML, CSS, and JavaScript.
+   - That’s it — no npm, no build step, no dependencies.
+   - Pure HTML, CSS, and JavaScript.
 
 ---
 
 ## 🎛 Customize the Chaos
 
 Want faster lines? Different colors? More sparks?
+
 Tweak the opts object in script.js:
 
 ```bash
