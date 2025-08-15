@@ -29,22 +29,19 @@ A living, glowing network of lines:
 
 ## 🎛 Customize the Chaos
 
-Want faster lines? Different colors? More sparks?
+- Want faster lines? Different colors? More sparks?
+- Tweak the opts object in script.js:
+  ```bash
+  var opts = {
+    len: 20,          // Length of each segment
+    count: 50,        // How many lines exist at once
+    hueChange: 0.1,   // Speed of color cycling
+    sparkChance: 0.1, // Probability of extra spark
+    baseLight: 50,    // Glow brightness
+    // ... more settings inside
+  };
 
-Tweak the opts object in script.js:
-
-```bash
-var opts = {
-  len: 20,          // Length of each segment
-  count: 50,        // How many lines exist at once
-  hueChange: 0.1,   // Speed of color cycling
-  sparkChance: 0.1, // Probability of extra spark
-  baseLight: 50,    // Glow brightness
-  // ... more settings inside
-};
-
-
-Experiment and make your own visual style.
+- Experiment and make your own visual style.
 
 ---
 
